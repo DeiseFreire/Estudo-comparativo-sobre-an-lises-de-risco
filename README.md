@@ -60,10 +60,9 @@ Este repositório contém o código LaTeX para o estudo "Estudo Digirido: Análi
 
 * O estudo não inclui a implementação dos métodos de análise de risco, apenas uma comparação teórica.
 * O esquema de classificação de Campbell et al. não está detalhado no código.
-* A referência bibliográfica está inclusa no documento do estudo dirigido.
+* A referência bibliográfica está inclusa no documento.
 * Este repositório serve como base para pesquisas e aprendizado sobre análise de risco de segurança da informação.
 * Este código é fornecido apenas para fins educacionais e de pesquisa. Não deve ser utilizado em ambientes de produção sem revisão e validação adequadas.
-* As referências bibliográficas no momento estão sem conteúdo. É necessário preenchê-las manualmente com as informações das fontes utilizadas no estudo.
 * Sinta-se à vontade para adaptar e modificar o código de acordo com suas necessidades.
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
